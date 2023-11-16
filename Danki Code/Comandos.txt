@@ -1,0 +1,6 @@
+npm --v
+
+npm init
+
+npm install --save express
+
