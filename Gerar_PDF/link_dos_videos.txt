@@ -1,0 +1,7 @@
+Como gerar PDF com JavaScript
+
+https://youtu.be/oQ3_p4oCzDE?si=A_peAQL-OGXBxlQq
+
+Vamos gerar PDF com NodeJS, Puppeteer, EJS e TailwindCSS?
+
+https://youtu.be/AoU7aEdTldE?si=xsEqiuZg5PhhUabX
